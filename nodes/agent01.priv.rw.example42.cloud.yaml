@@ -1,2 +1,2 @@
 ---
-profile::demo::world: 'hallo'
+infra::profiles::demo::world: 'hallo'
